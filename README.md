@@ -1,4 +1,6 @@
-<b>Hi there!</b>
+![oxte5rv0f0dmcebm8pre](https://user-images.githubusercontent.com/62026220/123572552-52f0b280-d7c4-11eb-82fa-9d08aa0af547.png)
+
+
 
 I am an Android developer based in Nasarawa Nigeria. I'm currently an undergraduate studying  <b>computer and Communication enginnering,</b> at Abbubakar Tafawa Balewa University ATBU Bauchi. I am also an active Developer Students Club member.
 
