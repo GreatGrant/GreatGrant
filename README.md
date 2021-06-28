@@ -4,7 +4,7 @@
 
 I am an Android developer based in Nasarawa Nigeria. I'm currently an undergraduate studying  <b>computer and Communication enginnering,</b> at Abbubakar Tafawa Balewa University ATBU Bauchi. I am also an active Developer Students Club member.
 
-## 🚧 A Few Quick Facts
+## 🚧 Fun Facts
 <ul>
 <li>🔭  I’m currently improving my Android skill.</li>
 <li>🧐  I'm currently switching from Java to Kotlin. </li>
