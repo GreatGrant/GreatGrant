@@ -2,7 +2,7 @@
 
 
 
-I am a software developer and an undergraduate of <b>computer and Communication enginnering,</b> at Abbubakar Tafawa Balewa University ATBU Bauchi. 
+I am a software developer and an undergraduate of <b>computer and Communication enginnering,</b> at Abubakar Tafawa Balewa University ATBU, Bauchi. 
 I'm passionate about technology and its efficacy in solving problems.
 
 
