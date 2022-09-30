@@ -1,5 +1,5 @@
-![oxte5rv0f0dmcebm8pre](https://user-images.githubusercontent.com/62026220/123572552-52f0b280-d7c4-11eb-82fa-9d08aa0af547.png)
 
+![20220915_200444](https://user-images.githubusercontent.com/62026220/193296814-1329e26b-41a3-4011-bab2-dc09758a7d70.png)
 
 
 I am a software developer and an undergraduate of <b>computer and Communication enginnering,</b> at Abubakar Tafawa Balewa University ATBU, Bauchi. 
