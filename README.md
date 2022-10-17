@@ -1,15 +1,22 @@
 
-![20220915_200444](https://user-images.githubusercontent.com/62026220/193296814-1329e26b-41a3-4011-bab2-dc09758a7d70.png)
 
 
 I am a software developer and an undergraduate of <b>computer and Communication enginnering,</b> at Abubakar Tafawa Balewa University ATBU, Bauchi. 
 I'm passionate about technology and its efficacy in solving problems.
 
 
+
+
 <!-- GitHub Stats -->
 ## 👨‍💻 My GitHub Stats
 
-![Grant's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreatGrant)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=GreatGrant&show_icons=true&theme=jolly&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betascribbles&langs_count=8&theme=jolly&layout=compact" />
+</a>
+
 
 <!-- Social Media accounts -->
 ## 👀 How to reach me
