@@ -1,5 +1,5 @@
 
- ## About Me💫
+ ## 📚 About Me
 
 I am an Android developer with experience in developing Android applications using Kotlin. My passion is to create mobile applications that are user-friendly, efficient, and visually appealing.
 
@@ -21,6 +21,4 @@ I am an Android developer with experience in developing Android applications usi
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/great-grant-williams//)
 
 ## Fun fact
-I'm learning jetpack compose
-
-
+I'm learning jetpack compose & Flutter
