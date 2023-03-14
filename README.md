@@ -1,5 +1,6 @@
 
 
+## I am an android developer building with Kotlin
 
 I am a junior Android developer with experience in developing Android applications using Kotlin. My passion is to create mobile applications that are user-friendly, efficient, and visually appealing.
 
@@ -9,7 +10,7 @@ I am a junior Android developer with experience in developing Android applicatio
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betascribbles&langs_count=8&theme=jolly&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreatGrant&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
 
@@ -21,6 +22,6 @@ I am a junior Android developer with experience in developing Android applicatio
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/great-grant-williams//)
 
 ## Fun fact
-I'm learning JetPack Compose
+I'm learning jetpack compose
 
 
