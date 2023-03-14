@@ -8,10 +8,15 @@ I am an Android developer with experience in developing Android applications usi
 ## 👨‍💻 My GitHub Stats
 
 
-<a href="https://github.com/anuraghazra/convoychat">
+
+<div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GreatGrant" alt="Grant's LangStat" />
+ <a href="https://github.com/anuraghazra/convoychat">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreatGrant&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GreatGrant&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Grant's language" height="192px"  width="500px"/> -->
+</div>
 
 <!-- Social Media accounts -->
 ## 👀 How to reach me
@@ -20,5 +25,5 @@ I am an Android developer with experience in developing Android applications usi
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/iAmGreatGrant)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/great-grant-williams//)
 
-## Fun fact
+## ⚡ Fun fact
 I'm learning jetpack compose & Flutter
