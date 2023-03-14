@@ -1,8 +1,7 @@
 
+ ## About Me💫
 
-## I am an android developer building with Kotlin
-
-I am a junior Android developer with experience in developing Android applications using Kotlin. My passion is to create mobile applications that are user-friendly, efficient, and visually appealing.
+I am an Android developer with experience in developing Android applications using Kotlin. My passion is to create mobile applications that are user-friendly, efficient, and visually appealing.
 
 
 <!-- GitHub Stats -->
