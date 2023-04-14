@@ -27,3 +27,5 @@ I am an Android developer with experience in developing Android applications usi
 
 ## ⚡ Fun fact
 I'm learning jetpack compose & Flutter
+
+- :busstop: Profile Visits ![Visitor Count](https://profile-counter.glitch.me/GreatGrant/count.svg)
