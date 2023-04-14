@@ -18,6 +18,20 @@ I am an Android developer with experience in developing Android applications usi
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GreatGrant&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Grant's language" height="192px"  width="500px"/> -->
 </div>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="40" height="40"/>
+</p>
+
+
+
+
+
 <!-- Social Media accounts -->
 ## 👀 How to reach me
 
