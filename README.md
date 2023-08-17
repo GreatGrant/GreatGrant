@@ -11,10 +11,6 @@ I am an Android developer with experience in developing Android applications usi
 
 <div>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GreatGrant" alt="Grant's LangStat" />
- <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreatGrant&langs_count=8&theme=jolly&layout=compact" />
-</a>
-
 </div> 
 
 
