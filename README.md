@@ -1,8 +1,27 @@
+ 
+<div align="center">
+  <img src="https://github.com/GreatGrant/GreatGrant/assets/62026220/0ee746a9-17f4-4d59-b48f-a3e52757e0d5" alt="Kotlin Android" width="25%" />
+ 
+![approach_dashfriends](https://github.com/GreatGrant/GreatGrant/assets/62026220/208bcd05-e9f8-433b-91d3-026e371ac845)
 
- ## 📚 About Me
+</div>
 
-I am an Android developer with experience in developing Android applications using Kotlin. My passion is to create mobile applications that are user-friendly, efficient, and visually appealing.
+ ## 👋 HELLO THERE!
 
+I am a mobile software engineer from 🌍 Bauchi, Nigeria  with expetise in developing Android applications using Kotlin. My passion is to create mobile applications that are user-friendly, efficient, and visually appealing.
+
+##  💼 My Skillset
+
+- Native Android App Development
+- UI/UX Design Implementation
+- Architecture Patterns: MVVM, Clean Architecture
+- Dependency Injection (Dagger Hilt)
+- Asynchronous Programming (Coroutines)
+- RESTful APIs (Retrofit)
+- Database Management (Room)
+- Version Control (Git)
+- Testing (Unit and UI Testing)
+- Material Design Guidelines
 
 <!-- GitHub Stats -->
 ## 👨‍💻 My GitHub Stats
@@ -30,8 +49,8 @@ I am an Android developer with experience in developing Android applications usi
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
 </p>
 
-
-
+## ⚡ Fun fact
+I'm learning Android Jetpack Compose & Flutter
 
 <!-- Social Media accounts -->
 ## 👀 How to reach me
@@ -39,8 +58,5 @@ I am an Android developer with experience in developing Android applications usi
 [<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>](https://github.com/GreatGrant)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/iAmGreatGrant)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/great-grant-williams//)
-
-## ⚡ Fun fact
-I'm learning jetpack compose & Flutter
-
+<br>
 - :busstop: Profile Visits ![Visitor Count](https://profile-counter.glitch.me/GreatGrant/count.svg)
