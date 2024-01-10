@@ -1,41 +1,4 @@
- 
-<div align="center">
-  <img src="https://github.com/GreatGrant/GreatGrant/assets/62026220/0ee746a9-17f4-4d59-b48f-a3e52757e0d5" alt="Kotlin Android" width="25%" />
- 
-<!-- ![approach_dashfriends](https://github.com/GreatGrant/GreatGrant/blob/master/assets/62026220/208bcd05-e9f8-433b-91d3-026e371ac845.jpg) -->
-
-
-</div>
-
- ## 👋 HELLO THERE!
-
-I am a mobile software engineer from 🌍 Bauchi, Nigeria  with expetise in developing Android applications using Kotlin. My passion is to create mobile applications that are user-friendly, efficient, and visually appealing.
-
-##  💼 My Skillset
-
-- Native Android App Development
-- UI/UX Design Implementation
-- Architecture Patterns: MVVM, Clean Architecture
-- Dependency Injection (Dagger Hilt)
-- Asynchronous Programming (Coroutines)
-- RESTful APIs (Retrofit)
-- Database Management (Room)
-- Version Control (Git)
-- Testing (Unit and UI Testing)
-- Material Design Guidelines
-
-<!-- GitHub Stats -->
-## 👨‍💻 My GitHub Stats
-
-
-
-<div>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GreatGrant" alt="Grant's LangStat" />
-</div> 
-
-
-
-
+I build for mobile devices using compose and flutter.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -49,9 +12,6 @@ I am a mobile software engineer from 🌍 Bauchi, Nigeria  with expetise in deve
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
 </p>
-
-## ⚡ Fun fact
-I'm learning Android Jetpack Compose & Flutter
 
 <!-- Social Media accounts -->
 ## 👀 How to reach me
