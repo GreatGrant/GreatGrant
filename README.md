@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 I build for mobile platforms using compose and flutter.
 
 
