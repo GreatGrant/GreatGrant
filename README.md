@@ -1,5 +1,5 @@
 
-I build for mobile platforms using compose and flutter.
+Mobile Software Engineer with strong experience in Flutter/Dart and Kotlin (Jetpack Compose). Also has a solid background in backend web technologies. Focused on building and delivering apps for Android, iOS, and web platforms. Collaborates smoothly with cross-functional teams to create reliable and scalable software.
 
 
 ## 🌐 Socials:
